@@ -1,2 +1,2 @@
-# IJCAI-supplyment
-Supplyment Files of IJCAI 2020
+# IJCAI-supplemental material
+Supplemental files for IJCAI 2020
